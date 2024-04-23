@@ -112,17 +112,17 @@ footer {
   text-align: center;
   color: #885df1;
   font-size: 16px;
-  line-height: 22px;
-  margin-bottom: 12px;
+  line-height: 20px;
+  margin-bottom: 10px;
 }
 
 .weather-forecast-temperatures {
   text-align: center;
-  margin-top: 12px;
+  margin-top: 10px;
   display: block;
   justify-content: center;
 }
 
 .weather-forecast-temperature {
-  padding: 15px;
+  padding: 10px;
 }
