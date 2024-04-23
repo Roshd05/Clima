@@ -23,7 +23,7 @@ header {
 }
 
 .search-form-input {
-  background-color: #bcdff4;
+  background-color: #d9ecf7;
   border: none;
   border-radius: 6px;
   width: 80%;
@@ -111,7 +111,7 @@ footer {
 
 .weather-forecast-date {
   text-align: center;
-  color: #885df1;
+  color: #0c0ff1;
   font-size: 16px;
   line-height: 20px;
   margin-bottom: 10px;
@@ -119,7 +119,7 @@ footer {
 
 .weather-forecast-temperatures {
   text-align: center;
-  color: rgb(14, 14, 246);
+  color: rgb(246, 14, 242);
   margin-top: 10px;
   display: flex;
   justify-content: center;
