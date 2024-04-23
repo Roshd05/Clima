@@ -63,11 +63,10 @@ function formatDay(timespam) {
 function getForecast(city) {
   let apiKey = "840df5b063f365oba39tb282d8c1d0cc";
   let apiUrl = `https://api.shecodes.io/weather/v1/forecast?query=${city}&key=${apiKey}&units=metric`;
-  axios.get(apiUrl).then(displayForecast);
+  axios(apiUrl).then(displayForecast);
 }
 
-function displayForecast() {
-  let days = ["Tue", "Wed", "Thu", "Fri", "Sat"];
+function displayForecast(response) {
   let forecastHtml = "";
 
   response.data.daily.forEach(function (day, index) {
