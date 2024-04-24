@@ -23,7 +23,7 @@ header {
 }
 
 .search-form-input {
-  background-color: #d9ecf7;
+  background-color: #c4e5f7;
   border: none;
   border-radius: 6px;
   width: 80%;
@@ -99,6 +99,8 @@ footer {
   display: flex;
   justify-content: space-around;
   margin-top: 30px;
+  border-radius: 16px;
+  border: none;
 }
 
 .weather-forescast-icon {
