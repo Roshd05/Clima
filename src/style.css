@@ -64,7 +64,7 @@ main {
 }
 
 .weather-app-details strong {
-  color: #0b010c;
+  color: #ed990a;
 }
 
 .weather-app-temperature-container {
@@ -114,8 +114,8 @@ footer {
 
 .weather-forecast-date {
   text-align: center;
-  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
-  font-style: oblique;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+  font-weight: 300;
   color: #0c0ff1;
   font-size: 16px;
   line-height: 20px;
