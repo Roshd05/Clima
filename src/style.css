@@ -23,7 +23,7 @@ header {
 }
 
 .search-form-input {
-  background-color: #c9dae4;
+  background-color: aliceblue;
   border: none;
   border-radius: 6px;
   width: 80%;
@@ -64,7 +64,7 @@ main {
 }
 
 .weather-app-details strong {
-  color: #d606f6;
+  color: #0b010c;
 }
 
 .weather-app-temperature-container {
