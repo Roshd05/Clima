@@ -100,7 +100,7 @@ footer {
   justify-content: space-around;
   margin-top: 30px;
   border-radius: 16px;
-  border: none;
+  padding: 0.5px;
 }
 
 .weather-forescast-icon {
